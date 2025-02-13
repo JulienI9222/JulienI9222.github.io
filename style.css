@@ -35,7 +35,7 @@ a {
 }
 
 .bg-1 {
-    background-color: #ffffff; /* White */
+    background-color: #ffffff; /* Green */
     color: #555555;
 }
 
@@ -45,7 +45,7 @@ a {
 }
 
 .card {
-    color: black;
+    color: blue;
     text-align: left;
 }
 
